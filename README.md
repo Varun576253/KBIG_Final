@@ -1,5 +1,7 @@
 # 🚀 KBIG — Karnataka Business Identity Graph
 
+PASSWORD- kbig-admin
+
 > **One Unified Identity Across Government Departments**
 
 KBIG is a full-stack government-tech platform that intelligently links business records across multiple government departments and generates a **Unified Business Identifier (UBID)** for every business entity.
